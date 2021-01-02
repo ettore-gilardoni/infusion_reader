@@ -19,4 +19,5 @@ It also prints out a graph of the spectra, highlighting the ion identified.
 So far, the code works for low resolution analyzed, although with a small adjustment of the parameters it can also work for high resolution analyzer
 
 In the folder you find a test.txt file that you can use to test the code. The formula bruta to type is: C9H14N4O3
+It is a positive ion mode acquisition.
 You can play with the accuracy of the run; however the suggested value is 0.5 for the test.txt file.
